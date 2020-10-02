@@ -3,7 +3,7 @@
 This is a small basic Python  project..
 # python virtual assistant
 
-this is virtual assistant is made with python using library pyttsx3 and speech_recognition librarys..
+this is a virtual assistant made with python using library pyttsx3 and speech_recognition librarys..
 and to do different task there are some other librarys used
 
 # if you want to contribute in this..
